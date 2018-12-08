@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\p3150091\desktop\c++ergasia3\filter\filter\main.cpp(55): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p3150091\desktop\c++ergasia3\filter\filter\main.cpp(56): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p3150091\desktop\c++ergasia3\filter\filter\main.cpp(57): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p3150091\desktop\c++ergasia3\filter\filter\main.cpp(110): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p3150091\desktop\c++ergasia3\filter\filter\main.cpp(111): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+c:\users\p3150091\desktop\c++ergasia3\filter\filter\main.cpp(112): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  Filter.vcxproj -> C:\Users\p3150091\Desktop\C++Ergasia3\Filter\Debug\Filter.exe
+  Filter.vcxproj -> C:\Users\p3150091\Desktop\C++Ergasia3\Filter\Debug\Filter.pdb (Partial PDB)
